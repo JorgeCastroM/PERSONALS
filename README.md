@@ -1,7 +1,7 @@
 # Projects
 
 Life Expectancy
- Descripción clara y directa del problema que resuelve este proyecto. 
+ 
 This study focuses on transformation and cleaning of the data from the life
 expectancy database of the World Health Organization (WHO) from the period of
 2010-2015
